@@ -1,0 +1,16 @@
+body
+{
+        background-color: #09203f;
+        font-family: 'Nunito', sans-serif;
+        color: white;
+}
+#nav
+{
+        text-align: center;
+        background : linear-gradient(to top,#235da8,#537895);
+}
+#intro
+{
+        text-align: center;
+        padding-top: 5vh;
+}
